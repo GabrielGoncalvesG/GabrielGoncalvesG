@@ -12,7 +12,7 @@
 
 ### 
 
-### \### 🚀 About Me
+### \## 🚀 About Me
 
 ### \- 🎓 Graduated Engineer and \*\*Data Scientist in training\*\*  
 
@@ -32,7 +32,7 @@
 
 ### 
 
-### \### 🛠️ Technologies \& Tools
+### \## 🛠️ Technologies \& Tools
 
 ### \- Python | Pandas | NumPy | Scikit-learn | TensorFlow | Keras  
 
@@ -46,7 +46,7 @@
 
 ### 
 
-### \### 🌍 Beyond the Code
+### \## 🌍 Beyond the Code
 
 ### \- 💼 \[LinkedIn](https://www.linkedin.com/in/gabriel-chaves-gon%C3%A7alves-a87412215/)  
 
