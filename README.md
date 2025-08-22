@@ -1,6 +1,7 @@
 # **Gabriel Chaves Gonçalves**
 
 **Data Scientist in training | Passionate about transforming data into real impact**
+
 *"Decoding the world, one algorithm at a time."*  
 
 ---
@@ -43,7 +44,7 @@
 
 ---
 
-## ⭐ **If you’re into data, science, and innovation, follow the repository and let’s learn together!**
+⭐ **If you’re into data, science, and innovation, follow the repository and let’s learn together!**
 
 
 
