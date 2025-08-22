@@ -1,12 +1,12 @@
-# **Gabriel Chaves Gonçalves**
+## **Gabriel Chaves Gonçalves**
 
-### **Data Scientist in training | Passionate about transforming data into real impact**
+#### **Data Scientist in training | Passionate about transforming data into real impact**
 
-### *"Decoding the world, one algorithm at a time."*  
+#### *"Decoding the world, one algorithm at a time."*  
 
 ---
 
-### 🚀 About Me
+#### 🚀 About Me
 
 - 🎓 Graduated Engineer and **Data Scientist in training**
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Technologies \& Tools
+#### 🛠️ Technologies \& Tools
 
 - Python | Pandas | NumPy | Scikit-learn | TensorFlow | Keras  
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 🌍 Beyond the Code
+#### 🌍 Beyond the Code
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-chaves-gon%C3%A7alves-a87412215/)
   
