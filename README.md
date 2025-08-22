@@ -1,50 +1,68 @@
-### Gabriel Chaves Gonçalves
+### \# Gabriel Chaves Gonçalves
 
-# 
+### 
 
-#### Data Scientist in training | Passionate about transforming data into real impact
+### \*\*Data Scientist in training | Passionate about transforming data into real impact\*\*  
 
-#### "Decoding the world, one algorithm at a time."
+### \*"Decoding the world, one algorithm at a time."\*  
 
-# 
+### 
 
-#### 🚀 About Me
+### ---
 
-🎓 Graduated Engineer and \*\*Data Scientist in training\*\*
+### 
 
-💡 Currently focused on \*\*Data Science and Artificial Intelligence\*\*
+### \### 🚀 About Me
 
-📊 Strong believer in the power of data to \*\*transform the world\*\* and support strategic decision-making
+### \- 🎓 Graduated Engineer and \*\*Data Scientist in training\*\*  
 
-🧩 Experience with \*\*Python, R, SQL, Data Analysis, Machine Learning, and Statistics\*\*
+### \- 💡 Currently focused on \*\*Data Science and Artificial Intelligence\*\*  
 
-🤝 Former \*\*student leader\*\* (academic board president) and active in \*\*social volunteering projects\*\*
+### \- 📊 Strong believer in the power of data to \*\*transform the world\*\* and support strategic decision-making  
 
-🤖 Enthusiast of technology and anime
+### \- 🧩 Experience with \*\*Python, R, SQL, Data Analysis, Machine Learning, and Statistics\*\*  
 
-# 
+### \- 🤝 Former \*\*student leader\*\* (academic board president) and active in \*\*social volunteering projects\*\*  
 
-#### 🛠️ Technologies \& Tools
+### \- 🤖 Enthusiast of technology and anime  
 
-\- Python | Pandas | NumPy | Scikit-learn | TensorFlow | Keras
+### 
 
-\- SQL | R | Google Colab | VSCode | AWS | Google Cloud
+### ---
 
-\- Data Visualization: Matplotlib, Seaborn
+### 
 
-# 
+### \### 🛠️ Technologies \& Tools
 
-#### 🌍 Beyond the Code
+### \- Python | Pandas | NumPy | Scikit-learn | TensorFlow | Keras  
 
-💼 https://www.linkedin.com/in/gabriel-chaves-gon%C3%A7alves-a87412215/
+### \- SQL | R | Google Colab | VSCode | AWS | Google Cloud  
 
-📧 goncalvesgabrielchaves@gmail.com
+### \- Data Visualization: Matplotlib, Seaborn  
 
-🩸 Volunteer in social campaigns
+### 
 
-🗣️ Always open to collaborations, continuous learning, and new challenges
+### ---
 
-# 
+### 
 
-###### ⭐ If you’re into data, science, and innovation, follow the repository and let’s learn together!
+### \### 🌍 Beyond the Code
+
+### \- 💼 \[LinkedIn](https://www.linkedin.com/in/gabriel-chaves-gon%C3%A7alves-a87412215/)  
+
+### \- 📧 goncalvesgabrielchaves@gmail.com  
+
+### \- 🩸 Volunteer in social campaigns  
+
+### \- 🗣️ Always open to \*\*collaborations, continuous learning, and new challenges\*\*  
+
+### 
+
+### ---
+
+### 
+
+### ⭐ \*If you’re into data, science, and innovation, follow the repository and let’s learn together!\*  
+
+
 
