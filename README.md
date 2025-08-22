@@ -34,10 +34,10 @@
 
 ## 🌍 Beyond the Code
 
-- 💼 https://www.linkedin.com/in/gabriel-chaves-gon%C3%A7alves-a87412215/
-
-- 📧 goncalvesgabrielchaves@gmail.com  
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-chaves-gon%C3%A7alves-a87412215/)
+  
+- [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncalvesgabrielchaves@gmail.com?cc=goncalvesgabrielchaves@gmail.com&subject=Contato%20via%20GitHub)
+  
 - 🩸 Volunteer in social campaigns  
 
 - 🗣️ Always open to \*\*collaborations, continuous learning, and new challenges\*\*  
