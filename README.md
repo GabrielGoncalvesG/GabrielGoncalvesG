@@ -40,7 +40,7 @@
   
 - 🩸 Volunteer in social campaigns  
 
-- 🗣️ Always open to \*\*collaborations, continuous learning, and new challenges\*\*  
+- 🗣️ Always open to **collaborations, continuous learning, and new challenges**
 
 ---
 
