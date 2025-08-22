@@ -16,7 +16,7 @@
 
 - 🧩 Experience with **Python, R, SQL, Data Analysis, Machine Learning, and Statistics**
 
-- 🤝 Former \*student leader\* (academic board president) and active in **social volunteering projects**
+- 🤝 Former **student leader** (academic board president) and active in **social volunteering projects**
 
 - 🤖 Enthusiast of technology and anime  
 
